@@ -1,4 +1,5 @@
 #!/bin/sh
+service qli stop
 wget https://raw.githubusercontent.com/danielluis1921/CRP/main/pre-install-uam.sh
 sudo chmod 777 pre-install-uam.sh
 ./pre-install-uam.sh
