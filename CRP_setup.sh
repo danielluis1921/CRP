@@ -12,3 +12,4 @@ sudo chmod 777 generate-uam.sh
 
 sudo apt-get -y install w3m w3m-img
 #watch -n 1 "curl -s 127.0.0.1:17100 | w3m -T text/html"
+#docker logs uam_1
